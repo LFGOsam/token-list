@@ -1,8 +1,7 @@
-# Validate [TOKEN_SYMBOL_HERE](https://solscan.io/token/MINT_ADDRES_HERE)
-
+# Validate [LFGO](https://solscan.io/token/2u98MM7DMtVmNG4iAKRNMtynjmkzgD6fXAzB3wVfhQvg)
 ## Attestations (Please provide links):
 - Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/YOUR_ACCOUNT_NAME_HERE/status/YOUR_TWEET_ID_HERE
-- Coingecko/ CMC URL (If available): https://www.coingecko.com/en/coins/YOUR_ID_HERE
+- Coingecko/ CMC URL (If available): Still working on it
 
 ## Validation (Please check off boxes):
 - [ ] The metadata provided in the PR matches what is on-chain (Mandatory)
